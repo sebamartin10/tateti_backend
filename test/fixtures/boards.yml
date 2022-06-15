@@ -1,0 +1,13 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  player1Symbol: MyString
+  player2Symbol: MyString
+  turnOf: MyString
+  active: false
+
+two:
+  player1Symbol: MyString
+  player2Symbol: MyString
+  turnOf: MyString
+  active: false
